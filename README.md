@@ -15,4 +15,4 @@ estimated salary using the decision tree algorithm.
 Aims to predict student study performance based on various factors using the XGBoost
 Regressor model.
 
-# Project: Predicting bike rentals using XGBR model
+# Project1: Predicting bike rentals using XGBR model
